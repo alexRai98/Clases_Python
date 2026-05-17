@@ -8,7 +8,7 @@ premium_apper = premium.upper()
 
 if age >= 18 and premium_apper == "S":
     if name == "Juan":
-        print("Bienvenido Juan, tienes acceso completoooo!!!!")
+        print("Bienvenido Juan, tienes acceso completo")
     else:
         print("Bienvenido", name, "tienes acceso completo")
 
